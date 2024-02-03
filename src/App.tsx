@@ -1,5 +1,5 @@
 import Sidebar from './Sidebar.tsx'
-// import MessageList from './MessageList.tsx'
+import MessageList from './MessageList.tsx'
 // import SendBox from './SendBox.tsx'
 import ChatWindow from './ChatWindow.tsx'
 import { CSSProperties } from 'react'
